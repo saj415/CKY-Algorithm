@@ -1,0 +1,1 @@
+(ROOT (S (NP (NP (Det a) (Noun president)) (PP (Prep in) (NP (Det a) (Noun president)))) (VP (Verb kissed) (NP (NP (Det the) (Noun president)) (PP (Prep in) (NP (Det every) (Noun staff)))))) !)
