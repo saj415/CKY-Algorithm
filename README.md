@@ -1,5 +1,5 @@
 # CYK-Algorithm
-Given a PCFG in CNF, generate and parse a random sentence using the CKY algorithm. 
+Given a PCFG in CNF, generate and parse a random sentence using the CYK algorithm. 
 
 Compiling and running the project:
 
